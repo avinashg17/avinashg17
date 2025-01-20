@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avinashg17
+- 👋 Hi, I’m Avinash Gangadharmath
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on open sourse projects
